@@ -5,4 +5,4 @@ Pre-Requsite:
 - you have zookeeeper running
 - you have bootstrap server running
 - you have a topic JAVA created
-- you have a topic JAVAP with 4 partitons created for Consumer seek and assing
+- you have a topic JAVAP with 4 partitons created for Consumer seek and assign
